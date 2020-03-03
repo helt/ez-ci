@@ -5,7 +5,7 @@
 
     <groupId>de.fhg.igd.iva.examples</groupId>
     <artifactId>ci-bom</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <distributionManagement>
